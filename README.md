@@ -1,3 +1,8 @@
+## ERD
+
+![image](https://github.com/user-attachments/assets/3e708585-28cc-4e71-bd72-ffdb1233d05f)
+
+
 ## Тестирование и отладка
 ### Отладка
 ![Image alt](https://i.imgur.com/T7a2eem.png)
