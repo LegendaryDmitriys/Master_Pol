@@ -19,3 +19,12 @@ C:\Users\Dmitry\RiderProjects\Master_Pol\Master_Pol\bin\Debug\net8.0-windows\Mic
 C:\Users\Dmitry\RiderProjects\Master_Pol\Master_Pol\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Dmitry\RiderProjects\Master_Pol\Master_Pol\bin\Debug\net8.0-windows\Npgsql.dll
 C:\Users\Dmitry\RiderProjects\Master_Pol\Master_Pol\obj\Debug\net8.0-windows\Master_Pol.csproj.Up2Date
+C:\Users\Dmitry\RiderProjects\Master_Pol\Master_Pol\obj\Debug\net8.0-windows\Master_Pol.PartnerEdit.resources
+C:\Users\Dmitry\RiderProjects\Master_Pol\Master_Pol\obj\Debug\net8.0-windows\Master_Pol.PartnerSale.resources
+C:\Users\Dmitry\RiderProjects\Master_Pol\Master_Pol\obj\Debug\net8.0-windows\Master_Pol.sourcelink.json
+C:\Users\Dmitry\RiderProjects\Master_Pol\Master_Pol\bin\Debug\net8.0-windows\Castle.Core.dll
+C:\Users\Dmitry\RiderProjects\Master_Pol\Master_Pol\bin\Debug\net8.0-windows\Moq.dll
+C:\Users\Dmitry\RiderProjects\Master_Pol\Master_Pol\bin\Debug\net8.0-windows\xunit.abstractions.dll
+C:\Users\Dmitry\RiderProjects\Master_Pol\Master_Pol\bin\Debug\net8.0-windows\xunit.assert.dll
+C:\Users\Dmitry\RiderProjects\Master_Pol\Master_Pol\bin\Debug\net8.0-windows\xunit.core.dll
+C:\Users\Dmitry\RiderProjects\Master_Pol\Master_Pol\bin\Debug\net8.0-windows\xunit.execution.dotnet.dll

@@ -1,4 +1,5 @@
 
+using System.Diagnostics;
 using Master_Pol.Database.Entity;
 
 namespace Master_Pol;
@@ -12,7 +13,7 @@ public partial class Form1 : Form
     {
         InitializeComponent();
         InitializeComponents();
-        
+        Debug.WriteLine("Инициализация кнопок, панелей");
         dbHelper = new Database.Database(connectionString);
         
         this.Load += PartnerCardsForm_Load;
@@ -30,7 +31,7 @@ public partial class Form1 : Form
         try
         {
             List<Partners> partners = dbHelper.GetPartners();
-                
+            Debug.WriteLine($"Загружено партнеров: {partners.Count}");
            
             for (int i = 0; i < partners.Count; i++)
             {
@@ -170,6 +171,10 @@ public partial class Form1 : Form
                 Size = new Size(300, 20)
             };
             cardPanel.Controls.Add(ratingLabel);
+            
+            Debug.WriteLine($"Партнер ID: {partner.Id}, Имя: {partner.Partner_Name}, Тип: {partner.Partner_Type}, " +
+                            $"Директор: {partner.Director}, Процент продаж: {partner.Percentage}, Адрес: {partner.Address}," +
+                            $" Рейтинг: {partner.Rating}, Номер: {partner.Phone}, Инн: {partner.Inn}");
         }
   
   
